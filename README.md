@@ -18,3 +18,4 @@ Findings:
 - Significant difference in optimal allocation between constrained & unconstrained models
 - MSCI Mexico dominates the optimal Portfolio when short selling is allowed (98% weight)
 - Efficient frontier visualization, to demonstrate risk-return tradeoffs
+ 
